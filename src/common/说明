@@ -1,0 +1,4 @@
+存放公用的js文件
+const.js：存放公共常量
+utils.js：存放公共的工具类
+minxi.js：混入
